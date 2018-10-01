@@ -1,0 +1,13 @@
+[29-Sep-2018 17:39:17 Asia/Calcutta] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/bridgeit/Downloads/darshu/darshan/designPatterns/php/behavioral/observer.php on line 50
+[29-Sep-2018 17:39:17 Asia/Calcutta] PHP Stack trace:
+                                      obser  
+[29-Sep-2018 17:39:17 Asia/Calcutta] PHP   1. {main}() /home/bridgeit/Downloads/darshu/darshan/designPatterns/php/behavioral/observer.php:0
+[29-Sep-2018 17:39:17 Asia/Calcutta] PHP   2. ObserverPatternTest->main() /home/bridgeit/Downloads/darshu/darshan/designPatterns/php/behavioral/observer.php:190
+[29-Sep-2018 17:39:17 Asia/Calcutta] PHP   3. MyTopic->register() /home/bridgeit/Downloads/darshu/darshan/designPatterns/php/behavioral/observer.php:162
+[29-Sep-2018 17:39:17 Asia/Calcutta] PHP   4. in_array() /home/bridgeit/Downloads/darshu/darshan/designPatterns/php/behavioral/observer.php:50
+[29-Sep-2018 17:39:45 Asia/Calcutta] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/bridgeit/Downloads/darshu/darshan/designPatterns/php/behavioral/observer.php on line 50
+[29-Sep-2018 17:39:45 Asia/Calcutta] PHP Stack trace:
+[29-Sep-2018 17:39:45 Asia/Calcutta] PHP   1. {main}() /home/bridgeit/Downloads/darshu/darshan/designPatterns/php/behavioral/observer.php:0
+[29-Sep-2018 17:39:45 Asia/Calcutta] PHP   2. ObserverPatternTest->main() /home/bridgeit/Downloads/darshu/darshan/designPatterns/php/behavioral/observer.php:190
+[29-Sep-2018 17:39:45 Asia/Calcutta] PHP   3. MyTopic->register() /home/bridgeit/Downloads/darshu/darshan/designPatterns/php/behavioral/observer.php:162
+[29-Sep-2018 17:39:45 Asia/Calcutta] PHP   4. in_array() /home/bridgeit/Downloads/darshu/darshan/designPatterns/php/behavioral/observer.php:50
